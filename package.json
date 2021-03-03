@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "dependencies": {
+    "three": "^0.126.1"
+  },
+  "devDependencies": {
+    "@types/three": "^0.126.0",
+    "copy-webpack-plugin": "^7.0.0",
+    "ts-loader": "^8.0.17",
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  }
+}

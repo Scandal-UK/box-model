@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "rootDir": "ts",
+    "outDir": "dist",
+    "target": "es2019",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "strict": true,
+	"removeComments": true,
+    "noEmitOnError": true
+  },
+  "exclude": [ "node_modules", "html" ]
+}
